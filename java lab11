@@ -1,0 +1,7 @@
+class Main
+	{  
+ 	Main(){System.out.println("Biriyani is prepared");}  
+	public static void main(String args[]){  
+	Main b=new Main();
+	 }  
+	} 
