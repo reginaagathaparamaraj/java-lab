@@ -1,0 +1,13 @@
+class Main
+	{  
+	int id;  
+	String name;  
+	  
+	void display(){System.out.println("001"+" "+"regina ");}  
+	  
+	public static void main(String args[]){  
+	Main s1=new Main();  
+	s1.display();  
+
+	 }  
+	}  
